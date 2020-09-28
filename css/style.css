@@ -119,11 +119,8 @@ tbody tr:nth-child(even){
   background: #d1d1d1;
 }
 
-tbody tr:nth-child(even):hover{
-  background-color: rgba(126, 8, 32,.25);
-}
 
-tbody tr:nth-child(odd):hover{
+tbody tr:hover{ 
   background-color: rgba(126, 8, 32,.25);
 }
 
