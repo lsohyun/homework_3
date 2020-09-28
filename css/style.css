@@ -17,6 +17,7 @@ body{
   background-position: center;
   background-image: url("../images/pigeon-background.JPEG");
   background-color: #dddddd;
+  background-repeat: no-repeat
 }
 
 main{
@@ -44,7 +45,7 @@ p{
 
 a{
   font-size: 16px;
-  color: #B92751; 
+  color: #B21F50; 
   text-decoration-line: underline;
   text-decoration-style: wavy;
 }
